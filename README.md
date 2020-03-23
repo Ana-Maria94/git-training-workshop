@@ -1,3 +1,3 @@
 # Git worksopt
 
-this is my first git workshop
+this is my first git workshop.
